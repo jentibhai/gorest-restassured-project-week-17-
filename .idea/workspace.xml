@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="775d0a3b-73e2-4f8d-a868-435fee4d903e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/model/PostsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/model/UserPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/propertyreader/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/main/java/com/gorest/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/crudtest/Crudtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/PostAssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/PostExtractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/UserAssetionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gorest-restassured-project/src/test/java/com/gorest/testsuite/UserExtractionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../gorest-restassured-project" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JW14ICp8rnhEPi3XVfTRQUpv1J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/IdeaProjects/gorest-restassured-project/src/test/java/com/gorest",
+    "settings.editor.selected.configurable": "configurable.group.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\IdeaProjects\gorest-restassured-project\src\test\java\com\gorest" />
+      <recent name="C:\IdeaProjects\gorest-restassured-project\src\main\java\com\gorest" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserExtractionTest">
+    <configuration name="PostAssertionTest.test004" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.PostAssertionTest" />
+      <option name="METHOD_NAME" value="test004" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostAssertionTest.test005" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.PostAssertionTest" />
+      <option name="METHOD_NAME" value="test005" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostExtractionTest.test007" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.PostExtractionTest" />
+      <option name="METHOD_NAME" value="test007" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserAssetionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.UserAssetionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserExtractionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gorest-restassured-project." />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gorest.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gorest.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.gorest.testsuite.UserExtractionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserExtractionTest" />
+        <item itemvalue="JUnit.UserAssetionTest" />
+        <item itemvalue="JUnit.PostAssertionTest.test005" />
+        <item itemvalue="JUnit.PostAssertionTest.test004" />
+        <item itemvalue="JUnit.PostExtractionTest.test007" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="775d0a3b-73e2-4f8d-a868-435fee4d903e" name="Changes" comment="" />
+      <created>1672178834868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672178834868</updated>
+    </task>
+    <servers />
+  </component>
+</project>
